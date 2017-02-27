@@ -1,0 +1,56 @@
+body {
+
+background-color: #80ffd4;
+margin: 0px;
+font-family:
+font-size: 15px
+
+}
+
+header {
+
+background-color: #3399ff;
+margin: 10px;
+height: 90px;
+font color: #ff66ff;
+text-align: center;
+
+}
+
+nav {
+
+background-color: #ff9966;
+margin: 10px;
+height: 35px;
+font color: #33cc33;
+
+}
+
+aside {
+
+background-color: #ff6666;
+margin-left: 10px;
+margin-right: 10px;
+margin-top: 0px;
+margin-bottom: 10px;
+float: right;
+padding: 20px;
+width: 260px;
+font-color: #ffff00;
+
+}
+
+main {
+
+background-color: #ff9900;
+margin-left: 10px;
+margin-right: 320px;
+margin-top: 10px;
+margin-bottom: 10px;
+
+ }
+ 
+ section {
+ 
+ background-color: #00ccff;
+ 
